@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.local-secret
+*.sqlite3
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+dist/
+tmp/
+.vscode/
